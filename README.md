@@ -1,2 +1,4 @@
 # NEWBIE21
-Tools termux-terminal emulator
+kumpulan termux
+https: // github.com/NEWBIE21/BimaCyberTeam
+https: // github.com/k4m4/kickoutgim/
